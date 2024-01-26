@@ -10,6 +10,7 @@ h1 {
 }
 .hero {
   background-color: #f9f7fe;
+  padding: 276px 180px;
 }
 .hero p {
   font-family: "Poppins", sans-serif;
