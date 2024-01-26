@@ -1,5 +1,6 @@
 :root {
   --branding-color: #6c63ff;
+  --primary-color: #f9f7fe;
 }
 
 h1 {
@@ -10,7 +11,7 @@ h1 {
   color: #272142;
 }
 .hero {
-  background-color: #f9f7fe;
+  background-color: var(--primary-color);
   padding: 276px 180px;
 }
 .hero p {
