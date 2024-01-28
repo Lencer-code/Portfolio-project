@@ -44,8 +44,6 @@ p {
   font-weight: normal;
   color: #272142;
   line-height: 30px;
-  font-family: var(--default-font-family);
-  font-weight: 100;
 }
 h3 {
   font-size: 42px;
