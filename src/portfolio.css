@@ -74,5 +74,9 @@ h3 {
     font-size: 64px;
   }
   h3 {
-    44px
+    font-size: 64px;
   }
+  .hero {
+    padding: 80px 20px;
+  }
+}
