@@ -83,7 +83,9 @@ header {
 nav li {
   margin-left: 15px;
 }
-
+img {
+  border-radius: 80px;
+}
 @media (max-width: 900px) {
   .project-description {
     padding: 0;
@@ -97,7 +99,6 @@ nav li {
     display: inline-block;
     margin-left: 100px;
     margin-inline: 0px;
-     
   }
   p {
     margin: 0 30px;
