@@ -93,6 +93,12 @@ nav li {
     padding: 0;
     text-align: center;
   }
+  .btn-branding-outline-1 {
+    display: inline-block;
+    margin-left: 100px;
+    margin-inline: 0px;
+     
+  }
   p {
     margin: 0 30px;
   }
