@@ -129,4 +129,10 @@ img {
   .hero {
     padding: 80px 20px;
   }
+  .btn-branding {
+    margin-left: 20px;
+  }
+  .about-section {
+    text-align: center;
+  }
 }
