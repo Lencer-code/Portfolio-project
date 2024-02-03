@@ -89,6 +89,11 @@ img {
 .about-section h1 {
   font-size: 64px;
 }
+.about-section h2 {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+}
+
 @media (max-width: 900px) {
   .project-description {
     padding: 0;
