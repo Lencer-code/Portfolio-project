@@ -96,9 +96,11 @@ img {
 .about-section-content {
   padding: 80px 20px;
   margin-left: 0px;
+  margin: 30px;
 }
 .btn-branding {
   margin-left: 10px;
+  margin: 0;
 }
 
 @media (max-width: 900px) {
