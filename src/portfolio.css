@@ -93,6 +93,9 @@ img {
   font-size: 18px;
   font-family: var(--default-font-family);
 }
+.about-section {
+  padding: 276px 180px;
+}
 
 @media (max-width: 900px) {
   .project-description {
