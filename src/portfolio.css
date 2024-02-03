@@ -90,7 +90,8 @@ nav li {
     text-align: center;
   }
   .shopping-description {
-    padding: ;
+    padding: 0;
+    text-align: center;
   }
   p {
     margin: 0 30px;
