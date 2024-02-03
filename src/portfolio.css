@@ -80,6 +80,9 @@ header {
   margin-inline: 200px;
   margin-bottom: 100px;
 }
+nav li {
+  margin-left: 15px;
+}
 
 @media (max-width: 900px) {
   .project-description {
