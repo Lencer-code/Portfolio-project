@@ -128,6 +128,8 @@ nav li {
   .project-description {
     padding: 0;
     text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
   .shopping-description {
     padding: 0;
@@ -137,9 +139,10 @@ nav li {
     display: inline-block;
     margin-left: 100px;
     margin-inline: 0px;
+    margin-bottom: 20px;
   }
   p {
-    margin: 0 30px;
+    margin: 0 5px;
   }
   h1 {
     font-size: 64px;
@@ -160,5 +163,8 @@ nav li {
   }
   .about-section-content {
     margin-bottom: -100px;
+  }
+  .btn-branding-2 {
+    margin-inline: 50px;
   }
 }
