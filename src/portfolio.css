@@ -123,6 +123,9 @@ nav li {
   text-align: center;
   padding: 0;
 }
+.logo {
+  max-width: 150px;
+}
 
 @media (max-width: 900px) {
   .project-description {
