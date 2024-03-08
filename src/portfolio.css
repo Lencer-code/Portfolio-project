@@ -93,9 +93,7 @@ header {
   padding: 15px 30px;
   margin-inline-start: 180px;
 }
-nav li {
-  margin-left: 15px;
-}
+
 .about-img {
   border-radius: 80px;
 }
@@ -125,6 +123,13 @@ nav li {
 }
 .logo {
   max-width: 150px;
+}
+nav li {
+  display: inline;
+  text-decoration: none;
+}
+nav ul {
+  padding: 0;
 }
 
 @media (max-width: 900px) {
