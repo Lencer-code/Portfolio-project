@@ -147,6 +147,14 @@ nav a:hover {
 nav li.active a {
   color: var(--branding-color);
 }
+.email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
+.email-link:hover {
+  color: var(--branding-color);
+}
 
 @media (max-width: 900px) {
   .project-description {
