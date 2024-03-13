@@ -50,6 +50,9 @@ h3 {
   font-weight: bold;
   font-family: var(--heading-font-family);
 }
+h4 {
+  font-size: 48px;
+}
 header {
   text-align: center;
   font-family: var(--default-font-family);
@@ -167,6 +170,16 @@ footer .social-links a {
   font-size: 18px;
   transition: all ease-in-out 100px;
 }
+.contact-box {
+  background-color: var(--primary-color);
+  padding: 30px 150px;
+  border-radius: 10px;
+  margin: 100px;
+}
+footer.contact-box p {
+  margin: 0px;
+  padding: 0px;
+}
 footer .social-links a:hover {
   color: white;
   background-color: var(--branding-color);
@@ -179,10 +192,6 @@ footer .social-links a:hover {
     margin-top: 5px;
     margin-bottom: 5px;
   }
-  .shopping-description {
-    padding: 0;
-    text-align: center;
-  }
   .btn-branding-outline-1 {
     display: inline-block;
     margin-left: 100px;
@@ -190,7 +199,7 @@ footer .social-links a:hover {
     margin-bottom: 20px;
   }
   p {
-    margin: 0 5px;
+    margin: 0 30px;
   }
   h1 {
     font-size: 64px;
