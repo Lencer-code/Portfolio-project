@@ -14,7 +14,14 @@ h1 {
 }
 .hero {
   background-color: var(--primary-color);
-  padding: 276px 180px;
+  padding: 160px 180px;
+}
+.hero p {
+  font-family: var(--default-font-family);
+  font-size: 18px;
+  font-weight: bold;
+  color: #272142;
+  margin: 0 auto;
 }
 h2 {
   font-family: var(--default-font-family);
@@ -87,7 +94,7 @@ header {
   line-height: 27px;
   font-weight: medium;
   padding: 15px 30px;
-  margin-inline-start: 180px;
+  margin-inline-start: 20px;
 }
 
 .about-img {
